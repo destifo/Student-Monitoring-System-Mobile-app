@@ -2,11 +2,11 @@
 
 ## Group Members
 
-        Semir Ahmed             UGR/9996/12     Section 02
         Estifanos Bireda        UGR/6051/12     Section 03
-        Yoseph Habtamu          UGR/9364/12     Section 02
         Samuel Kifle            UGR/4797/12     Section 02
+        Semir Ahmed             UGR/9996/12     Section 02
         Simon Mekonnen          UGR/9508/12     Section 03
+        Yoseph Habtamu          UGR/9364/12     Section 02
 
 ## General Information
 
