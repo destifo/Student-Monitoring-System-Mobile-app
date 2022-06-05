@@ -1,0 +1,1 @@
+export './announcemnt_model.dart';
