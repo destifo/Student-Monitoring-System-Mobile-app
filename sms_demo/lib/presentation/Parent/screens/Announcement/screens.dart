@@ -1,0 +1,1 @@
+export 'list_announcemnt_parent.dart';
