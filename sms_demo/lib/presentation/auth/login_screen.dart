@@ -53,6 +53,7 @@ class LoginScreen extends StatelessWidget {
                         child: SizedBox(
                           width: 300,
                           child: TextFormField(
+                            key: Key('username'),
                             controller: usernameCtrl,
                             textAlign: TextAlign.center,
                             decoration: kinputdecoration.copyWith(
@@ -76,6 +77,7 @@ class LoginScreen extends StatelessWidget {
                         child: SizedBox(
                           width: 300,
                           child: TextFormField(
+                            key: Key('password'),
                             obscureText: true,
                             textAlign: TextAlign.center,
                             controller: passwordCtrl,
